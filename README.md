@@ -1,6 +1,6 @@
 - 👋 Hi, I’m "Pratish"...
 - 👀 I’m interested in ...Software Development
-- 🌱 I’m currently learning ... Full Stack Development
+- 🌱 I’m currently learning ... Full Stack Development @upGrad_Campus
 - 💞️ I’m looking to collaborate on ... Front End projects
 - 📫 How to reach me ...pratish.kumar@outlook.com
 
